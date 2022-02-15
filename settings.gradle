@@ -1,0 +1,5 @@
+rootProject.name = 'gradle-boot'
+include 'test.model'
+include 'test.provider'
+include 'teststart'
+
